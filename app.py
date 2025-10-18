@@ -1,2 +1,3 @@
 print("yes bro")
-print ("ok bro")
+print ("hi pav"
+print ("tinaava")
