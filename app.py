@@ -1,2 +1,2 @@
 print("yes bro")
-print ("ok bro")
+print ("bye bro")
